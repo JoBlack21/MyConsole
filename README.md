@@ -1,0 +1,2 @@
+# MyConsole
+Work with console
